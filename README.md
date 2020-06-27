@@ -1,2 +1,2 @@
 # NATURAL-LANGUAGE-PROCESSING
-This includes embedding, chunking, scrapping data from web, sentiment analysis using logistic regression , basic functions in our regional language
+This includes Embedding(Word 2 Vec), Chunking, Scrapping data from web, Sentiment analysis using logistic regression , Basic functions in our regional language(Tamil) 
